@@ -4,7 +4,7 @@
 // #include <iomanip>
 // #include <stdio.h>
 // #include <string>
-using namespace std;
+// using namespace std;
 
 class counter
 {
